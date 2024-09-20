@@ -43,7 +43,7 @@ Although the actual dataset is confidential and not shared, here is a general ov
   * Heatmap of User Activity: Displayed user activity by hour to identify peak times.
   * Top Content by Device and ISP: Used bar charts to show popular content for each device and ISP.
 
-4. **Advanced Insights**:
+4. **Key Insights**:
   * Top Content by Platform: BoxOTT accounted for 46% of total views, dominating device usage. Mobile and SmartTV were also significant.
   * Peak Viewing Times: Peak hours were identified between 19:00 and 21:00, with the highest user activity at 20:00 across all days.
   * Most Popular ISPs: FPT was the leading ISP, with the highest user engagement on VTV1 HD and VTV3 HD.
